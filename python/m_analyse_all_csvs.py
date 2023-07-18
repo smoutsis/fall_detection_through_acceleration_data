@@ -8,7 +8,7 @@ from m_analyse_1_csv_in_def_2 import check_dataset
 Multiple types of daily actions and falls are contained in each file (csv) of the MMsys (Cognet) dataset.
 """
   
-path = r'C:\Users\smoutsis\OneDrive - Democritus University of Thrace\Desktop\mdpi_algorithms\mdpi\datatasets\MMsys_data\all'
+path = "path to the folder that contains the csb from the MMsys (Cognet) dataset"
 
 files2 = os.listdir(path)
 files = []
