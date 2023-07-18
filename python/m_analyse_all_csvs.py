@@ -66,6 +66,6 @@ for n in name:
 results = pd.DataFrame(list(zip(name, tp_1, fp_1, tn_1, fn_1, index2)),
                columns =['file', 'TP', 'FP', 'TN', 'FN', 'index2'])  
 results = results.sort_values(by='index2')
+# results.to_csv('results.csv')
 
-
-print("\nAcc: {:.4f}\nSen: {:.4f}\nSpe: {:.4f}\nPre: {:.4f}\nF1 : {:.4f}".format(acc, sens, spec, prec, f1)) 
+print("\nAcc: {:.4f}\nSen: {:.4f}\nSpe: {:.4f}\nPre: {:.4f}\nF1 : {:.4f}".format(acc, sens, spec, prec, f1))
