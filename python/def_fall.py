@@ -325,4 +325,6 @@ def fall_detection(df2, step2, hz):
                 # print('No Fall')
                 return new_fall
             else:
+                # return new_index # for the indexes of the fall
+                # in the new_fall the entries of the fall are contained 
                 return new_fall
