@@ -1,6 +1,6 @@
 Here the fall detection algorithm is implemented in the Python programming language.
 
-The function in line 54 performs the task of fall detection.
+The function in line 54 (of def_fall.py) performs the task of fall detection.
 As arguments should be given a data-frame (df2) that contains in the column v the magnitudes and in the column time the corresponding timestamps, 
 the length (step2) of the time-series (data-frame) and 
 the frequency (Hz) of the sensor that is used.
