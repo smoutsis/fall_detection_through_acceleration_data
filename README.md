@@ -4,7 +4,7 @@ In the C++ folder the fall detection algorithm is implemented in the C++ program
 
 More details about the algorithm and its usage can be found in the README files, which are included in the folders, as well as in the comment sections.
 
-More information aboyt the code can be found in 'PIPTO: Precise Inertial-Based Pipeline for Threshold-Based Fall Detection Using Three-Axis Accelerometers'
+More information about the code, and how it workds, can be found at the paper entitled 'PIPTO: Precise Inertial-Based Pipeline for Threshold-Based Fall Detection Using Three-Axis Accelerometers'
 published as MDPI sensors [https://www.mdpi.com/1424-8220/23/18/7951]
 
 Please if you use the code cite the following:
